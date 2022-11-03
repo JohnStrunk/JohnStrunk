@@ -10,3 +10,9 @@ Download from:
 //
 [MIT PGP Public Key
 Server](https://pgp.mit.edu/pks/lookup?op=get&search=0x74fc7e7efd0ff009513cc9e39360133dbd1ff508)
+
+----
+
+![LinkedIn: John Strunk](https://img.shields.io/badge/John_Strunk--white?style=social&logo=linkedin)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109276542280204432?domain=https%3A%2F%2Fmastodon.online&style=social)
+![Twitter: @TheJohnStrunk](https://img.shields.io/twitter/url?label=%40TheJohnStrunk&style=social&url=https%3A%2F%2Ftwitter.com%2FTheJohnStrunk)
