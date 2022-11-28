@@ -12,5 +12,5 @@ Download from:
 Server](https://pgp.mit.edu/pks/lookup?op=get&search=0x74fc7e7efd0ff009513cc9e39360133dbd1ff508)
 
 [![LinkedIn: John Strunk](https://img.shields.io/badge/John_Strunk--white?style=social&logo=linkedin)](https://www.linkedin.com/in/johnstrunk/)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/109276542280204432?domain=https%3A%2F%2Fmastodon.online&style=social)](https://mastodon.online/@JohnStrunk)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109404769164254212?domain=https%3A%2F%2Ffosstodon.org&style=social)](https://fosstodon.org/@JohnStrunk)
 [![Twitter: @TheJohnStrunk](https://img.shields.io/twitter/url?label=%40TheJohnStrunk&style=social&url=https%3A%2F%2Ftwitter.com%2FTheJohnStrunk)](https://twitter.com/TheJohnStrunk)
