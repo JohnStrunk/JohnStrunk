@@ -1,3 +1,8 @@
+<div>
+  <img height=200 style="align:center" src="https://github-readme-stats.vercel.app/api?username=JohnStrunk&hide=contribs,stars&show=reviews,discussions_answered&show_icons=true&rank_icon=percentile" />
+  <img height=200 style="align:center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnStrunk&layout=compact&langs_count=10" />
+</div>
+
 ### GPG key
 
 Fingerprint: `74FC 7E7E FD0F F009 513C  C9E3 9360 133D BD1F F508`  
