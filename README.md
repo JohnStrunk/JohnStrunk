@@ -1,7 +1,11 @@
+<!-- markdownlint-capture -->
+<!-- markdownlint-disable -->
 <div>
-  <img height=200 style="align:center" src="https://github-readme-stats.vercel.app/api?username=JohnStrunk&hide=contribs,stars&show=reviews,discussions_answered&show_icons=true&rank_icon=percentile" />
-  <img height=200 style="align:center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnStrunk&layout=compact&langs_count=10" />
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <img height=200 style="align:center" src="https://github-readme-stats.vercel.app/api?username=JohnStrunk&hide=contribs,stars&show=reviews,discussions_answered&show_icons=true&rank_icon=percentile&theme=transparent" />
+  <img height=200 style="align:center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnStrunk&layout=compact&langs_count=10&theme=transparent" />
 </div>
+<!-- markdownlint-restore -->
 
 ### GPG key
 
