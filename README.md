@@ -2,8 +2,8 @@
 <!-- markdownlint-disable -->
 <div>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=JohnStrunk&hide=contribs,stars&show=reviews,discussions_answered&show_icons=true&rank_icon=percentile&theme=transparent" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnStrunk&layout=compact&langs_count=10&theme=transparent" />
+  <img height=200 width=479 src="https://github-readme-stats.vercel.app/api?username=JohnStrunk&hide=contribs,stars&show=reviews,discussions_answered&show_icons=true&rank_icon=percentile&theme=transparent" />
+  <img height=200 width=279 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnStrunk&layout=compact&langs_count=10&theme=transparent" />
 </div>
 <!-- markdownlint-restore -->
 
